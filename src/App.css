@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.NewClass {
+  width: 18rem;
+}
+.cssimage {
+  width: 100px !important;
+  height: 100px !important;
+}
